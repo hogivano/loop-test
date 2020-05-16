@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif !important;
+}
+
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-weight: 200;
+    height: 100vh;
+}
+
+.img-logo {
+  height: 75px;
+}
+
+.bg-grey {
+  background-color: #F2F5F7;
+}
+
+.opacity-8 {
+  opacity: 0.8;
+}
+
+.opacity-6 {
+  opacity: 0.6;
+}
+
+.p-30px {
+  padding: 30px;
+}
+
+.list-posts {
+  padding: 30px 50px;
+}
